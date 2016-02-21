@@ -7,9 +7,9 @@ OSC-enabled MaxMSP utility for sending projector commands over serial to NEC pro
 Basic UI for Power On, Power Off, VGA Source. Other command codes can be found in the NEC manuals.
 
 ### OSC on port 53007:
-/projector/on <bang> — Power on/start warmup
-/projector/off <bang> — Poweroff/start cooldown
-/projector/vga <bang> — force VGA input source
+* _projector/on_ <bang> > Power on/start warmup
+* _/projector/off_ <bang> > Poweroff/start cooldown
+* _/projector/vga_ <bang> > force VGA input source
 
 ### Dependencies
 * USB to RS232 converter, such as https://www.sparkfun.com/products/11304
