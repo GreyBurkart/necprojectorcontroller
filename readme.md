@@ -1,4 +1,6 @@
-2016 gmb
+# NEC Projector Controller
+
+_2016 gmb_
 
 OSC-enabled MaxMSP utility for sending projector commands over serial to NEC projectors (for a project with the NP-M282X and NP-M322W models).
 
